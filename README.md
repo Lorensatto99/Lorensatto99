@@ -14,7 +14,7 @@
     </a>
 </div>
 
-## 🤙 Salve, Mundo!
+## 🤙 Ola Mundo!
 ### Eu sou Celso Lorensatto, bem vindo(a) ao meu Github.
 <div>
 
@@ -42,8 +42,10 @@
 
 ___
 ## Sobre Mim 
-Sou Desenvolvedor Full-Stack, apaixonado por tecnologia e por café haha. Acho muito massa trabalho em equipe em projetos, tenho planos ambiciosos para o futuro mas tento aproveitar cada passo da minha jornada resolvendo cada bug por vez até chegar lá. 😉
 
+Sou Desenvolvedor Full-Stack, apaixonado por tecnologia e por café haha. Adoro trabalhar em equipe e desenvolver.
+
+Sinta-se a vontade para olhar os meus projetos e para entrar em contato comigo : lorensatto98@gmail.com.
 ___
 
 <i>
