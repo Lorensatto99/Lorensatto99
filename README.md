@@ -42,7 +42,7 @@
 
 ___
 ## Sobre Mim 
-Sou Desenvolvedor Full-Stack, apaixonado por tecnologia mas não tanto por café haha. Acho muito massa trabalho em equipe em projetos, tenho planos ambiciosos para o futuro mas tento aproveitar cada passo da minha jornada resolvendo cada bug por vez até chegar lá. 😉
+Sou Desenvolvedor Full-Stack, apaixonado por tecnologia e por café haha. Acho muito massa trabalho em equipe em projetos, tenho planos ambiciosos para o futuro mas tento aproveitar cada passo da minha jornada resolvendo cada bug por vez até chegar lá. 😉
 
 ___
 
