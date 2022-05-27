@@ -51,7 +51,7 @@ ___
 <i>
    Trabalhando: meu proprio site como meu portfolio pessoal.
 
-   Estundando : Javascript/ typescript e python.
+   Estundando : Node.js
 </i>
 
 # Meu Github Stats
