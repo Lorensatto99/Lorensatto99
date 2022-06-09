@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <div>
@@ -63,3 +61,4 @@ ___
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorensatto99&locale=pt-br&theme=merko&hide_border=true&layout=compact" />
 </a>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLorensatto99%2FLorensatto99&count_bg=%23DF7C26&title_bg=%23513E2E&icon=googlepodcasts.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
